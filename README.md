@@ -32,3 +32,11 @@ Title: Add randomness to health and damage values
 - Start enemies with a random attack value between 10 and 14.
 
 - Attack damage is random, using the robot's attack value as an upper limit (for example, if the player's attack is 10, their damage range is 7-10).
+
+Title: Restructure data with JS objects
+
+**Description**
+
+- Create and use JavaScript objects to organize data related to the player and data related to the enemies.
+
+- Create object methods to perform player actions.
