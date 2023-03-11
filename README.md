@@ -22,3 +22,13 @@ Title: Add shop functionality
 - After defeating an enemy, ask the player if they would like to purchase an item from a store.
 
 - The player can purchase health or attack points if they can afford it.
+
+Title: Add randomness to health and damage values
+
+**Description**
+
+- Start enemies at a random health value between 40 and 60.
+
+- Start enemies with a random attack value between 10 and 14.
+
+- Attack damage is random, using the robot's attack value as an upper limit (for example, if the player's attack is 10, their damage range is 7-10).
