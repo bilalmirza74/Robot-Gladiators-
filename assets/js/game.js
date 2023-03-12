@@ -1,5 +1,4 @@
 // var playerName = 'iron-man';
-
 var playerName = window.prompt("What is your robot's name?");
 
 var playerHealth = 100;
